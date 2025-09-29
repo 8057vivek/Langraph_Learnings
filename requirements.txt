@@ -1,0 +1,8 @@
+langgraph==0.6.7 # Workflow/state graph logic
+langchain-google-genai==2.1.12 # Google Generative AI model integration
+langchain-core==0.3.76 # Core utilities for LangChain workflows
+python-dotenv==1.1.1 # Loads environment variables from .env files
+pydantic==2.11.9 # Data validation and schema definition
+typing-extensions==4.15.0 # Advanced type hints (TypedDict, Literal)
+IPython==9.5.0 # Notebook display features (e.g., images)
+
